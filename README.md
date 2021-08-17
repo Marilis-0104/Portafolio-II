@@ -11,7 +11,11 @@
 
   <li>Profesor Jossue Emanuel Fuentes</li>
 </ul>
+
+
 # Objetivos
+
+
 <ul>
   <li>Comprender los temas y realizar los ejercicos de forma adecuada</li>
 
@@ -20,6 +24,8 @@
   <li>Prestar atención a las clases</li>
   
 </ul>
+
+
 # Índice
 
 <ul>
